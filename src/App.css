@@ -1,20 +1,21 @@
+
 .page-counter-container {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #303036;
 }
 
 .counter-title {
   font-size: 6rem;
-  color: rgb(225, 125, 11);
+  color: #30BCED;
   font-family: 'Arial', sans-serif;
 }
 
 .counter-value {
   font-size: 10rem;
-  color: #007bff;
+  color: #FAA916;
   font-family: 'Helvetica', sans-serif;
 }
